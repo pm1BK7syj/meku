@@ -12,7 +12,7 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面,
+            "description": "自定义CADDY部署完成后点击View的显示页面",
             "value": "https://raw.githubusercontent.com/pm1BK7syj/Web/main/icook/index.html"
         },
         "CONFIGCADDY": {
